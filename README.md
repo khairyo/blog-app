@@ -7,7 +7,7 @@ A simple blogging web app to get me comfortable with using Node.js.
 - Delete: Users can delete blogs.
 
 ## Getting Started
-Follow these steps to set up and run blog-app locally:
+Follow these steps to set up and run **blog-app** locally:
 1. Clone the repository:
 ```git clone https://github.com/khairyo/blog-app.git```
 2. Install dependencies:
