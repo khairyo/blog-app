@@ -1,4 +1,5 @@
 # blog-app
+A simple blogging web app to get me comfortable with using Node.js.
 
 ## Features
 - Create: Users can create an submit new blogs.
