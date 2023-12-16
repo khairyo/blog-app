@@ -13,7 +13,7 @@ Follow these steps to set up and run **blog-app** locally:
 2. Install dependencies:
 ```npm install```
 3. Run the application:
-```npm run dev```
+```nodemon app```
 
 ## Technologies Used
 - **Node.js:** The runtime environment for server-side JavaScript.
